@@ -2,16 +2,13 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego&show_icons=true&theme=radical&hide_border=true&bg_color=&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&ring_color=FF6B6B&border_color=FF6B6B)
+  ![GitHub Stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&ring_color=FF6B6B)
   
-  ![Top Languages](https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=warneyrego&layout=compact&theme=radical&hide_border=true&bg_color=&title_color=FF6B6B&text_color=C9D1D9)
+  ![Top Languages](https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=warneyrego&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
   
 </div>
 
-
 ---
-
-
 
 <div align="center">
   
@@ -30,6 +27,4 @@
   ![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,docker,python,git,spring)
   
 </div>
-
----
 
