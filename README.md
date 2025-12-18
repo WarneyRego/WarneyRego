@@ -2,13 +2,16 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego&show_icons=true&theme=date_night&show_border=true&bg_color=170F0C&title_color=DA7885&icon_color=BB8470&text_color=E1B2A2&ring_color=E1B2A2&border_color=E1B2A2)
+  ![GitHub Stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&ring_color=FF6B6B)
   
-  ![Top Languages](https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=warneyrego&layout=compact&theme=radical&hide_border=true&bg_color=170F0C&title_color=DA7885&text_color=E1B2A2)
+  ![Top Languages](https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=warneyrego&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
   
 </div>
 
+
 ---
+
+
 
 <div align="center">
   
