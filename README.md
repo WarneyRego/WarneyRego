@@ -12,17 +12,6 @@
 
 <div align="center">
   
-  ### 📊 Estatísticas de Contribuição
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warneyrego&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9)
-  
-</div>
-
-
----
-
-<div align="center">
-  
   ### 📈 Gráfico de Atividade
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=warneyrego&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FF6B6B)
