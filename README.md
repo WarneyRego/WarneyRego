@@ -1,14 +1,43 @@
+# 👋 Olá, eu sou Warney Rego!
 
-[![Anurag's GitHub stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego)](https://github.com/warneyrego/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<div align="center">
   
+  ![GitHub Stats](https://github-readme-stats-kappa-three-56.vercel.app/api?username=warneyrego&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9&ring_color=FF6B6B)
+  
+  ![Top Languages](https://github-readme-stats-kappa-three-56.vercel.app/api/top-langs/?username=warneyrego&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📊 Estatísticas de Contribuição
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warneyrego&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=C9D1D9)
+  
+</div>
+
+
+---
+
+<div align="center">
+  
+  ### 📈 Gráfico de Atividade
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=warneyrego&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FF6B6B)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💻 Stack de Tecnologias
+  
+  ![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,typescript,docker,python,git,spring)
+  
+</div>
+
+---
 
